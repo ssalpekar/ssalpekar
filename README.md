@@ -38,12 +38,6 @@ Sitecore JSS Series
 - > My first JSS app experience - https://blogs.perficient.com/2023/12/14/unveiling-the-essence-a-step-by-step-guide-to-building-your-first-sitecore-jss-app/
 - > Explore more about SSR and SSG - **_Coming Soon_**
 
-Control Panel Features Series
-- > Episode 01: My Settings, Database and Localization - **_Coming Soon_**
-- > Episode 02: Administration - **_Coming Soon_**
-- > Episode 03: Reports and Security - **_Coming Soon_** 
-- > Episode 04: Indexng and Analytics - **_Coming Soon_** 
-
 Other Blogs
 - > First step towards CDP - **_Coming Soon_**
 - > A Guide to Creating a Custom Submit Action for Seamless Sitecore Forms Data Capture in Pardot - https://blogs.perficient.com/2024/01/31/a-guide-to-creating-a-custom-submit-action-for-seamless-sitecore-forms-data-capture-in-pardot/
