@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on Sitecore projects that involve intricate development challenges or architectural design considerations. If you're passionate about pushing the boundaries of what Sitecore can achieve, let's team up!
 - 📫 How to reach me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/sumitsalpekar1554) or send me an email at [sumitsalpekar@outlook.com]. I'm always open to discussing Sitecore best practices, exchanging ideas, and collaborating on projects that elevate the Sitecore experience. Let's build exceptional digital solutions together!
 
-# Sumit Salpekar's Sitecore contributions
+# Sumit Salpekar's Sitecore contributions - 2023-2024
+
+**Organizer of Sitecore User Group - Nagpur**
+- > _Session 1_: Beyond the Basics: Sitecore CDP & Personalize Use Cases for Maximum Impact.<br /> _Speaker_: Rashmy Patwari <br />_Date & Time_: Jan 25, 2024 05:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298583266/ <br />_Video Link_: https://www.youtube.com/watch?v=8iWvO4sqpB0
+- > **Upcoming** - _Session 2_: Personalization in Sitecore XM Cloud<br /> _Speaker_: Anna Gevel<br />_Date & Time_: Feb 16, 2024 03:00 PM IST<br />_Meetup Link_: https://www.meetup.com/nagpur-sitecore-cms-meetup-group/events/298948984<br />_Video Link_: **_Coming Soon_**
 
 **Contributions on Perficient Blog**
 https://blogs.perficient.com/author/ssalpekar/
