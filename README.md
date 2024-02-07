@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sitecore development and architecture, focusing on creating robust and scalable solutions that provide seamless digital experiences.
 - 🌱 I’m currently learning about the latest features and updates in Sitecore, staying abreast of emerging technologies, and enhancing my skills in optimizing performance and security in Sitecore implementations.
 - 💞️ I’m looking to collaborate on Sitecore projects that involve intricate development challenges or architectural design considerations. If you're passionate about pushing the boundaries of what Sitecore can achieve, let's team up!
-- 📫 How to reach me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/sumitsalpekar1554) or send me an email at [sumitsalpekar@outlook.com]. I'm always open to discussing Sitecore best practices, exchanging ideas, and collaborating on projects that elevate the Sitecore experience. Let's build exceptional digital solutions together!
+- 📫 How to reach me: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/sumitsalpekar1554) or send me an email at [sumitsalpekar@outlook.com] or [sumit.salpekar@perficient.com]. I'm always open to discussing Sitecore best practices, exchanging ideas, and collaborating on projects that elevate the Sitecore experience. Let's build exceptional digital solutions together!
 
 # Sumit Salpekar's Sitecore contributions - 2023-2024
 
